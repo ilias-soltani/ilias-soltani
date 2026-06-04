@@ -18,7 +18,7 @@ Hi! My name is Ilies Soltani
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ilias-abderrahmene-soltani/" target="_blank">
+  <a href="linkedin.com/in/ilies-soltani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
